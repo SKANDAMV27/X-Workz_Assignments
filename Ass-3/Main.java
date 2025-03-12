@@ -1,0 +1,29 @@
+class Main{
+	public static void main(String[] args)
+	{
+		System.out.println("List:");
+		Lipstick.apply();
+		Lipstick.remove();
+		Trafficsignal.showSignal();
+		Trafficsignal.changeSignal();
+		brand.displayBrand();
+		brand.compareBrands();
+		Pineapple.sell();
+		Pineapple.checkRipeness();
+		GOLD.checkMarket();
+		GOLD.sell();
+		wire.cut();
+		wire.connect();
+		Bracelet.remove();
+		Bracelet.wear();
+		perfume.spray();
+		perfume.open();
+		Currency.convert();
+		Currency.exchangeRate();
+		wallet.checkCuurency();
+		wallet.checkBalance();
+		Bitcoin.checkNetwork();
+		Bitcoin.price();
+		System.out.println("DONE!!!!");
+	}
+}
