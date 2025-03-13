@@ -1,0 +1,25 @@
+class 
+class is keyword
+class is program
+class is non primitive data type
+class is datatype.
+
+main method
+
+public static void main(String[] args)
+
+public= access modification/specification
+static = non access modification/specification
+void = return type
+main = method name
+(String[] args) = parameter
+
+
+Statements
+
+any this is end with a ; 
+
+System.out.println("Message");
+
+System = class.
+("") = argunments.
