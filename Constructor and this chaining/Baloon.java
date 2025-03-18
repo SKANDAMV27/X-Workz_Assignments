@@ -18,32 +18,32 @@ class Baloon
 	}
 	Baloon(String name,double price)
 	{
-		//this(name);
+		this(name);
 		this.price=price;
 	}
 	Baloon(String name,double price,String shape)
 	{
-		this();
+		this(name,price);
 		this.shape=shape;
 	}
 	Baloon(String name,double price,String shape,String colour)
 	{
-		this();
+		this(name,price,shape);
 		this.colour=colour;
 	}
 	Baloon(String colour,int volume)
 	{
-		this();
+		this(colour);
 		this.volume=volume;
 	}
 	Baloon(String shape,char grade)
 	{
-		this();
+		this(shape);
 		this.grade=grade;
 	}
 	Baloon(char grade)
 	{
-		this();
+		this.grade=grade;
 	}
 	
 	void display()
