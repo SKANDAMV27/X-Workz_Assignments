@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ass-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ass-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ass-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ass-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ass-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment-6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Constructor and this chaining" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Init_variables_using_Constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class with instance variable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
